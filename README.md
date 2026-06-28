@@ -2,7 +2,7 @@
 
 *(Scroll down for the English version)*
 
-Projekt garażowy open-source pozwalający na ciągłe wyświetlanie danych z czujników ekosystemu Blebox (tempSensor, humiditySensor, multiSensor) na klasycznym ekranie LCD 16x2.
+Projekt garażowy open-source pozwalający na ciągłe wyświetlanie danych z czujników ekosystemu Blebox (tempSensor, humiditySensor, multiSensor) na klasycznym ekranie LCD 16x2 lun 24x3.
 
 Zamiast polegać na chmurze producenta, urządzenie wykorzystuje architekturę hybrydową Bleboxa – komunikuje się z czujnikami całkowicie lokalnie, w obrębie domowej sieci Wi-Fi lub przez bezpośredni punkt dostępowy (AP) sensora, używając otwartego API po protokole HTTP (mechanizm pollingu).
 
