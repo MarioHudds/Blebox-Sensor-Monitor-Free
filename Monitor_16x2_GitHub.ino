@@ -125,6 +125,8 @@ const unsigned long DATA_FETCH_INTERVAL = 5000;
 const char* TEMP_ENDPOINT_PATH = "/state";
 const char* INFO_ENDPOINT_PATH = "/info";
 
+//Wykrywane czujniki
+
 const char* TEMP_AP_PREFIX_1 = "tempSensor-";
 const char* TEMP_AP_PREFIX_2 = "tempSensor_v2-";
 const char* HUMIDITY_AP_PREFIX = "humiditySensor-";
