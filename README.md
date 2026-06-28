@@ -18,7 +18,7 @@ Zamiast polegać na chmurze producenta, urządzenie wykorzystuje architekturę h
 
 Projekt został zoptymalizowany dla mikrokontrolerów z rodziny **ESP32-C3** (np. SuperMini).
 
-* **Wyświetlacz LCD 16x2 lub 24x3 dla odpowiedzniego kodu (I2C, adres 0x27):**
+* **Wyświetlacz LCD 16x2 lub 24x3 dla odpowiedniego kodu (I2C, adres 0x27):**
   * `SDA` -> GPIO 10
   * `SCL` -> GPIO 20
 * **Przycisk fizyczny (do nawigacji i resetu):**
