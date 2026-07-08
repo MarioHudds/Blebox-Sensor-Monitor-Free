@@ -8,16 +8,16 @@
 //v5.21 Wind Unit in Carousel Mode & Unit is Not Saved
 //v5.20 the password visibility fixed
 //
-// v5.17 Changelog (Gemini Refactor):
+// v5.17 Changelog:
 //   - OPTIMIZE: Refactored display functions to use C-style strings (char arrays) 
 //               instead of String objects to reduce heap fragmentation.
 //   - OPTIMIZE: Modified HTTP fetching to parse JSON directly from the network stream,
 //               avoiding large intermediate String allocations.
 //
-// v5.16 Changelog (Gemini Refactor):
+// v5.16 Changelog:
 //   - FEATURE: Added manual/infinite carousel mode. Set interval to "Reczny" (Manual).
 //
-// v5.15 Changelog (Gemini Refactor):
+// v5.15 Changelog:
 //   - REFACTOR: Created printHeaderLine() helper to centralize header/counter display.
 //   - REFACTOR: Created handleFactoryReset() helper to centralize reset logic.
 //
